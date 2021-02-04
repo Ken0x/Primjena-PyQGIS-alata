@@ -1,0 +1,29 @@
+ID,IDENTIFIKACIONA OZNAKA BROJACA-MINISTARSTVO,NAZIV LOKACIJE I OPCINE,NAZIV DIONICE,PRAVAC SAOBRACAJNICE,DUZINA DIONICE (m),LONGITUDA,LATITUDA,PGDS,PLDS
+1,KSBS21,Alipasino polje - Opcina Novi Grad,Ulica Majdanska ,RTV Dom - Pavla Goranina,512,18.3539694,43.8462194,12817,12779
+2,KSBS21,Alipasino polje - Opcina Novi Grad,Ulica Majdanska ,Pavla Goranina - RTV Dom ,512,18.3541639,43.8463361,12817,12779
+3,KSBS06,Marijin Dvor - Opcina Centar,Regionalni put R 902,Marijin Dvor - Skenderija,537,18.4100277,43.8558611,27220,26503
+4,KSBS29a,Rajlovacka cesta - Novi Grad,"R951, Ulica Rajlovacka",Pofalici - Brijesce,526,18.3421388,43.8521111,7340,7624
+5,KSBS13,Pofalici - Novo Sarajevo,Ulica Put zivota,Pofalici - Grbavica,1380,18.3880833,43.8569722,16516,16579
+6,KSBS18,Cengic Vila - Opcina Novo Sarajevo,Ulica Dzemala Bijedica,Cengic Vila - Aneks,529,18.3721944,43.8514166,10813,11043
+7,KSBS04,Ispred zgrade BBI centra - Opcina Centar,Ulica Telali - Ulica Mula Mustafe Baseskije - Ulica Marsala Tits,Vjecna Vatra - Higijenski zavod ,544,18.4166194,43.8590083,34202,35399
+8,KSBS14,Grbavica - Novo Sarajevo,Ulica Lozionicka i Ulica Topal Osman pase,Stadion Grbavica - Merkator,525,18.3869638,43.8480833,7352,7152
+9,KSBS14,Grbavica - Novo Sarajevo,Ulica Lozionicka i Ulica Topal Osman pase,Merkator - Stadion Grbavica,525,18.3867222,43.8480555,7352,7152
+10,KSBS02,R 958 Dariva - Opcina Stari Grad,Regionalni put R 9447,Dariva - Granica Kantona,581,18.4470833,43.8603888,1982,2296
+11,KSBS17,Cengic Vila - Opcina Novo Sarajevo,R 902 DIONICA: Ulica Zmaja od Bosne do Ulice Bulevar Mese Selimovica,Dolac Malta - Cengic Vila,529,18.3741694,43.8509611,34650,35993
+12,KSBS17,Cengic Vila - Opcina Novo Sarajevo,R 902 DIONICA: Ulica Zmaja od Bosne do Ulice Bulevar Mese Selimovica,Dolac Malta - Cengic Vila,529,18.3742,43.8508527,34650,35993
+13,KSBS15,Pofalici - Novo Sarajevo,R 901 DIONICA: Ulica Drinska od VI - II transferzale,Pofalici - Buca Potok,544,18.38265,43.8579083,14103,14842
+14,KSBS26,Alipasin most - Opcina Novo Sarajevo,R 901 DIONICA: Ulica Safeta Zajke od XII - VI transferzale ,Pofalici - Brijesce,526,18.3421388,43.8521111,20400,21230
+15,KSBS11,Pofalici - Novo Sarajevo,R 901 DIONICA: Ulica Hamdije Cemerlica ,Pofalici - Grbavica,538,18.4091944,43.8533888,16642,16847
+16,KSBS11,Pofalici - Novo Sarajevo,R 901 DIONICA: Ulica Hamdije Cemerlica ,Grbavica - Pofalici,538,18.4090972,43.8535638,16642,16847
+17,KSBS23 ,"Alipasino polje, Alipasin most - Opcina Novi Grad",Od spoja sa Bulevar Mese Selimovica do spoja sa Dzemala Bijedica,Alipasin most - Alipasino polje,526,18.3469722,43.8474111,9276,10937
+18,KSBS03,Glavna gradska longitudinalna - Ispred uciteljske skole - Opcina Centar,Magistralni put M 223 DIONICA: Raskrsnica ulice Hamze Hume i Hisete - Obala Kulina Bana do raskrnice sa ulicom Telali kod Vijecnice,Skenderija- Bascarsija,546,18.4159722,43.8565833,33702,34408
+19,KSBS25,Nedzarici - Opcina Novi Grad ,R 903 DIONICA: Ulica Ante Babica - Lukavicka cesta,Nedzarici - Lukavica,517,18.3449694,43.8344944,24065,24288
+20,KSBS05,Glavna gradska longitudinalna - Ispred Doma zdravlja Centar - Opcina Centar,R 902 DIONICA: Ulica Marsala Tita od raskrsnice sa Alipasinom ulicom do raskrsnice sa ulicom Zmaja od Bosne ,Alipasina dzamija - Marijin Dvor,544,18.4166194,43.8590083,26935,28532
+21,KSBS16,Hrasno - Novo Sarajevo,R 904 DIONICA: IV transferzala od raskrnice sa ulicom Zmaja od Bosne do raskrsnice sa Zvornickom ulicom,Malta - Hrasno,524,18.3803055,43.8476277,15146,15020
+22,KSBS24,Alipasino polje - Opcina Novi Grad,R 902 DIONICA: Ulica Bulevar Mese Selimovica od  X - V transferzale,Nedzarici - Alipasin most,513,18.3422777,43.8453333,33418,33600
+23,KSBS24,Alipasino polje - Opcina Novi Grad,R 902 DIONICA: Ulica Bulevar Mese Selimovica od  X - V transferzale,Alipasin most - Nedzarici,513,18.3422444,43.8454277,33418,33600
+24,KSBS08,Skenderija - Opcina Centar,R 904 DIONICA: raskrsnica ulica Azize Sacirbegovic i Zvornicke - Zvornicka - Zagrebacka - Terezija - raskrsnica ulice Terezije ii Skenderije,Grbavica - Skenderija,538,18.4091944,43.85633888,20582,20768
+25,KSBS08,Skenderija - Opcina Centar,R 904 DIONICA: raskrsnica ulica Azize Sacirbegovic i Zvornicke - Zvornicka - Zagrebacka - Terezija - raskrsnica ulice Terezije ii Skenderije,Skenderija - Grbavica,538,18.4090972,43.8535638,20582,20768
+26,KSBS07,Magistralni put M 223 - Kosevo,Magistralni put M 223 DIONICA: Alipasina ulica od stadiona Kosevo do raskrsnice sa ulicom Marsala Tita kod Higijenskog zavoda,Josanica - Sarajevo,570,18.4076111,43.8704722,19941,20821
+27,KSBS07,Magistralni put M 223 - Kosevo,Magistralni put M 223 DIONICA: Alipasina ulica od stadiona Kosevo do raskrsnice sa ulicom Marsala Tita kod Higijenskog zavoda,Sarajevo -Josanica,570,18.4075194,43.8704638,19941,20821
+28,KSBS22,"Ispred objekta preduzeca ""Zica"" - Opcina Novi Grad",Ulica Dzemala Bijedica ,Alipasin most - Cengic Vila,520,18.3566888,43.8499416,13758,12904
